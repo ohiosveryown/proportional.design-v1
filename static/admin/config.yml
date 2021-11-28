@@ -34,3 +34,4 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "imgOneOfOne", name: "Image One of One", widget: "image", choose_url: true }
