@@ -50,7 +50,7 @@
       },
     },
     mounted() {
-      this.timeOfDay()
+      // this.timeOfDay()
     },
   }
 </script>

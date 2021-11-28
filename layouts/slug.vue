@@ -44,7 +44,7 @@
       },
     },
     mounted() {
-      this.timeOfDay()
+      // this.timeOfDay()
     },
     // beforeDestroy() {
     //   const getMain = document.querySelector(".anim")
