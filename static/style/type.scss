@@ -1,0 +1,21 @@
+@import '~/static/style/grid.scss';
+
+@font-face {
+  font-family: "neuebit";
+  src: url("~/static/type/neuebit.woff2") format("woff2");
+  font-display: block;
+}
+
+@font-face {
+  font-family: "canela";
+  src: url("~/static/type/canela.woff2") format("woff2");
+  font-display: block;
+}
+
+.neuebit { font-family: 'neuebit', var(--system-ui); letter-spacing: -.25px; }
+.canela { font-family: 'canela', var(--system-ui); }
+
+.uc  { text-transform: uppercase; }
+.tac { text-align: center; }
+.tar { text-align: right; }
+.taj { text-align: justify; }

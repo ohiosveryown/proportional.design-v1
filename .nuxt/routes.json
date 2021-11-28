@@ -1,0 +1,23 @@
+[
+  {
+    "name": "projects-slug",
+    "path": "/projects/:slug?",
+    "component": "/Users/pence/Desktop/dev/proportional.design/pages/projects/_slug.vue",
+    "chunkName": "pages/projects/_slug",
+    "_name": "_6e9366c1"
+  },
+  {
+    "name": "timeline-slug",
+    "path": "/timeline/:slug?",
+    "component": "/Users/pence/Desktop/dev/proportional.design/pages/timeline/_slug.vue",
+    "chunkName": "pages/timeline/_slug",
+    "_name": "_d0275470"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/pence/Desktop/dev/proportional.design/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2de2a6f6"
+  }
+]
