@@ -28,7 +28,7 @@
             background: linear-gradient(135deg, #FEFCEA 0%, #52ACFF 67.19%, #1D74C5 100%);
             color: #0e0e0f;
           `
-        } else if (this.currentTime >= 12 && this.currentTime < 16) {
+        } else if (this.currentTime >= 12 && this.currentTime < 17) {
           console.log("it's the afternoon ☀️")
           bdy.style.cssText = `
             background: linear-gradient(135deg, #FEF1EA 0%, #4296E4 66.67%, #2E6BA4 100%);
