@@ -7,9 +7,9 @@ slug: /timeline/timeline-two
 # imgOneOfTwo: "/img/mercury/hero.jpg"
 # imgTwoOfTwo: "/img/armstrong/hero.jpg"
 
-imgOneOfThree: "https://images.squarespace-cdn.com/content/v1/54483821e4b04131eb2e8078/1631214842190-GGUUHKN072OHJ4IS3QMG/081221-Kidwell-0880_web.jpg?format=1000w"
-imgTwoOfThree: "https://images.squarespace-cdn.com/content/v1/54483821e4b04131eb2e8078/1612470807934-7UBE0GBJVLX8HRPIUUTW/rowe+desk+front+view+detail.jpg?format=1000w"
-imgThreeOfThree: "https://images.squarespace-cdn.com/content/v1/54483821e4b04131eb2e8078/1603230306277-22JJPA8SJ91LZPV24XLS/vaughandetailview.jpg?format=1000w"
+imgOneOfThree: "https://res.cloudinary.com/da32ufmnf/image/upload/v1600743681/proportional.design/IMG_2863_pq2xbr.jpg"
+imgTwoOfThree: "https://res.cloudinary.com/da32ufmnf/image/upload/v1600743604/proportional.design/02_t16j69.jpg"
+imgThreeOfThree: "https://res.cloudinary.com/da32ufmnf/image/upload/v1600744194/proportional.design/sapele_lu4fb0.jpg"
 
 # imgOneOfFour: "/img/mercury/hero.jpg"
 # imgTwoOfFour: "/img/armstrong/hero.jpg"
