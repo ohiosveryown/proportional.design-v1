@@ -84,6 +84,7 @@ dist
 .idea
 .editorconfig
 .nova
+sw.js
 
 # Service worker
 sw.*
